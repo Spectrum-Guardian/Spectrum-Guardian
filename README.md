@@ -187,7 +187,7 @@ This project adheres to the principles of **responsible security research**:
 
 If you discover a security vulnerability in this project, please report it responsibly:
 
-- **Email:** security@spectrum-guardian.com
+- **Email:** developer@spectrum-guardian.com
 - **Response Time:** We aim to acknowledge reports within 48 hours
 
 Please do **not** open public issues for security vulnerabilities.
