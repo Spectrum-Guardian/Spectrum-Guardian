@@ -97,34 +97,6 @@ Spectrum Guardian has been validated against **23+ leading endpoint security sol
 
 ---
 
-## 🏗️ Project Structure
-
-```
-spectrum-guardian/
-├── index.html              # Landing page
-├── features.html           # Capabilities overview
-├── pricing.html            # Licensing tiers
-├── tutorials.html          # Tutorial & video archive
-├── proofs.html             # Detection test results
-├── malware-analysis.html   # AV engine benchmark analysis
-├── faq.html                # Frequently asked questions
-├── donate.html             # Support the project
-├── blog/                   # Security research articles
-│   ├── index.html
-│   ├── antivirus-comparison-detection-rates-and-algorithms.html
-│   ├── cyber-threats-forecast.html
-│   ├── ransomware-threat-guide.html
-│   └── ...
-├── images/                 # Visual assets
-├── style.css               # Stylesheet
-├── shared.js               # Shared scripts
-├── server.py               # Local development server
-├── sitemap.xml             # SEO sitemap
-├── robots.txt              # Search engine directives
-├── 404.html                # Custom error page
-└── README.md               # This file
-```
-
 ## 📝 Research Blog
 
 The Spectrum Guardian blog publishes educational articles on:
