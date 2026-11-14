@@ -125,26 +125,6 @@ spectrum-guardian/
 └── README.md               # This file
 ```
 
----
-
-## 🚀 Deployment
-
-### Quick Start (Local Preview)
-```bash
-python server.py
-# Open http://localhost:8000 in your browser
-```
-
-### Production Hosting
-This project is a static website ready for deployment on any standard web host. See [README_DEPLOYMENT.txt](README_DEPLOYMENT.txt) for detailed instructions covering:
-
-- **cPanel / File Manager** upload (recommended)
-- **FTP / SFTP** deployment via FileZilla
-- SSL/TLS configuration
-- Clean URL rewriting via `.htaccess`
-
----
-
 ## 📝 Research Blog
 
 The Spectrum Guardian blog publishes educational articles on:
@@ -199,12 +179,6 @@ Please do **not** open public issues for security vulnerabilities.
 This project is proprietary software. All rights reserved.
 
 Unauthorized reproduction, distribution, or modification is prohibited without explicit written consent from the Spectrum Guardian team. See [Pricing](https://spectrum-guardian.com/pricing) for licensing options.
-
----
-
-## 🤝 Contributing
-
-Contributions to the research blog and documentation are welcome. For security tool improvements or feature requests, please contact us directly through our website.
 
 ---
 
